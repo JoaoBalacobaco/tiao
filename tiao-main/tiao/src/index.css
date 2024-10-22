@@ -1,0 +1,14 @@
+body{
+  background-color: var(--sunset);
+  margin: 0 ;
+  padding: 0;
+}
+:root{
+  --sunset :#F3CD94;
+  --Seal-brown :#712F0C;
+  --Black-bean :#3B0E0A;
+  --Baby-powder :#FFFFFD;
+  --Lemon-chiffon :#FCF7D2;
+  --Seasalt :#F7F7F7;
+  --Ochre :#D07826;
+}
